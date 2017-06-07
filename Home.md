@@ -1,1 +1,1 @@
-Welcome to the teammates wiki! This page is under construction.
+Welcome to the TEAMMATES wiki! This place is under construction.
