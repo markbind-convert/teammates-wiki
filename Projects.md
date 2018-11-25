@@ -7,7 +7,7 @@ Unless stated otherwise:
 * The feature should be implemented at production quality.
 * The code should be compliant with our coding standard, come with automated tests, and reviewed by (at least) a team member.
 * The feature should be released and field-tested.
-  * Where database operations are involved, they should be performance-tested with sufficient amount of load.
+  * Where database operations are involved, the scalability and cost effectiveness of the implementation should be proven with quantitative evidence. TEAMMATES is a non-profit free-hosted service and every byte stored/transmitted is a cost to us which we want to minimize.
 * The feature should work with legacy data and provide means to migrate legacy data to the new format later, if needed.
 
 ### Contacting us about project ideas
@@ -26,10 +26,10 @@ This is because we believe that 'less is more' when it comes to features and we 
 
 For each project, the knowledge required is described only briefly (e.g. "back-end development/testing"). The actual implementation languages/tools can be found out in the main repository.
 
-### Project statuses
+### Project status
 
 * **Active**: The project is being actively worked on by at least one person.
 * **Open**: The project is accepting new proposals.
-* **Archived**: The project is not accepting new proposals. This could be the case for project ideas formulated in the past and is no longer deemed necessary.
+* **Archived**: The project is not accepting new proposals. This could be the case for project ideas formulated in the past and are no longer deemed necessary.
 * **Suspended**: The project is abandoned before completion and the team is currently assessing the action to be taken.
 * **Completed**: The project has been completed and is no longer available.
