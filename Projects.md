@@ -33,3 +33,5 @@ For each project, the knowledge required is described only briefly (e.g. "back-e
 * **Archived**: The project is not accepting new proposals. This could be the case for project ideas formulated in the past and are no longer deemed necessary.
 * **Suspended**: The project is abandoned before completion and the team is currently assessing the action to be taken.
 * **Completed**: The project has been completed and is no longer available.
+
+In addition, projects marked with `(R)` are *recurring* projects. While many have undertaken and completed those projects in the past, those projects will continue accepting new idea proposals to continuously improve the core features/aspects of the system.

@@ -1,6 +1,6 @@
 * **Priority**: High
 * **Knowledge required**: Full-stack development/testing, E2E testing
-* **Status**: Completed
+* **Status**: Open
 
 Enhance the current implementation of the comments feature.
 
