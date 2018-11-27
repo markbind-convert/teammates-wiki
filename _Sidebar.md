@@ -7,7 +7,7 @@
     * [Questions+ (R)](./Project:-Questions-)
     * [Reports+ (R)](./Project:-Reports-)
     * [Comments for Responses (R)](./Project:-Comments-for-Responses)
-    * [Continuous Benchmarking](./Project:-Continuous-Benchmarking)
+    * [Continuous Profiling](./Project:-Continuous-Profiling)
     * [Data Protection and On-premise Deployment](./Project:-Data-Protection-and-On-premise-Deployment)
     * [LMS Integration](./Project:-LMS-Integration)
     * [Email+](./Project:-Email-)
