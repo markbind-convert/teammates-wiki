@@ -1,6 +1,7 @@
 * [Home](Home)
 * [Project Ideas](Projects)
   * [Accessibility Hero (R)](./Project:-Accessibility-Hero)
+  * [Rich-Text in Questions](./Project:-Rich-Text-in-Questions)
   * [Performance Hero (R)](./Project:-Performance-Hero)
   * [Testing Hero (R)](./Project:-Testing-Hero)
   * [Questions+ (R)](./Project:-Questions-)
