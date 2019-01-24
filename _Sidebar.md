@@ -1,7 +1,7 @@
 * [Home](Home)
 * [Projects overview](Projects)
   * Project Ideas
-    * [Usability and Accessibility Hero (R)](./Project:-Accessibility-Hero)
+    * [Accessibility Hero (R)](./Project:-Accessibility-Hero)
     * [Performance Hero (R)](./Project:-Performance-Hero)
     * [Testing Hero (R)](./Project:-Testing-Hero)
     * [Questions+ (R)](./Project:-Questions-)
