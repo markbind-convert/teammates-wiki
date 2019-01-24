@@ -2,6 +2,7 @@
 * [Project Ideas](Projects)
   * [Accessibility Hero (H)](./Project:-Accessibility-Hero)
   * [Link Recovery (H)](./Project:-Link-Recovery)
+  * [Selective Deadline Extensions (H)](./Project:-Selective-Deadline-Extensions)
   * [Rich-Text in Questions (M)](./Project:-Rich-Text-in-Questions)
   * [Performance Hero (R)](./Project:-Performance-Hero)
   * [Testing Hero (R)](./Project:-Testing-Hero)
