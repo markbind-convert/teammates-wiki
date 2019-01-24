@@ -3,6 +3,7 @@
   * [Accessibility Hero (H)](./Project:-Accessibility-Hero)
   * [Link Recovery (H)](./Project:-Link-Recovery)
   * [Selective Deadline Extensions (H)](./Project:-Selective-Deadline-Extensions)
+  * [Multiple Team Structures (M)](./Project:-Multiple-Team-Structures)
   * [Per-Receiver Submission (M)](./Project:-Per-Receiver-Submission)
   * [Rich-Text in Questions (M)](./Project:-Rich-Text-in-Questions)
   * [Results View Tracking (M)](./Project:-Results-View-Tracking)
