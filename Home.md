@@ -1,55 +1,39 @@
-Welcome to TEAMMATES wiki! This space is used only for roadmap and project ideas.
+Welcome to TEAMMATES wiki! This space is used only for project ideas.
 
 # Current Project Ideas
+
+The list of current project ideas are given in the side bar on the right. The priority of each project is given too (`H`: High, `M`: Medium, `L`: Low). Projects that require a significant research element are marked with a :microscope:.
 
 All the project ideas listed here are big enough to do as separate short-term sub-projects. Ideas for smaller features can be found in [our issue tracker](../issues).
 
 ### General project expectations
 
-Unless stated otherwise:
-
 * The feature should be implemented at production quality.
 * The code should be compliant with our coding standard, come with automated tests, and reviewed by (at least) a team member.
-* The feature should be released and field-tested.
-  * Where database operations are involved, the scalability and cost effectiveness of the implementation should be proven with quantitative evidence. TEAMMATES is a non-profit free-hosted service and every byte stored/transmitted is a cost to us which we want to minimize.
+* The feature should be released and field-tested. Where database operations are involved, the scalability and cost effectiveness of the implementation should be proven with quantitative evidence. TEAMMATES is a non-profit free-hosted service and every byte stored/transmitted is a cost to us which we want to minimize.
 * The feature should work with legacy data and provide means to migrate legacy data to the new format later, if needed.
 
 ### Contacting us about project ideas
 
-In the spirit of OSS, we prefer to discuss about project ideas in the open. Please post your ideas/questions in our issue tracker.
+In the spirit of OSS, we prefer to discuss about project ideas in the open. Please post your ideas/questions in [our issue tracker](../issues).
 
-### Defining your own project
+### Knowledge requirements
 
-* We are open to other project ideas that are aligned with TEAMMATES vision.
-* We also welcome projects to improve tooling support (tools to manage our projects and the community) for existing projects or for the team.
-
-When proposing your own project, be sure to bounce your project ideas off us (by posting your ideas/questions in our issue tracker) before you submit a detailed proposal.
-This is because we believe that 'less is more' when it comes to features and we do not want to add features 'just because we can'.
-
-### Knowledge requirement
-
-For each project, the knowledge required is described only briefly (e.g. "back-end development/testing"). The actual implementation languages/tools can be found out in the main repository.
+For each project, the knowledge required is described only briefly (e.g. "back-end development/testing"). The actual implementation languages/tools can be found out in the main repository. If you are a new contributor, do read our [_Contribution Orientation Guide_](../blob/master/docs/CONTRIBUTING.md) too.
 
 ### Project status
 
 * **Active**: The project is being actively worked on by at least one person.
 * **Open**: The project is accepting new proposals.
+* **Recurring**: An open-ended projects that can be done multiple times. While many have undertaken and completed those projects in the past, those projects will continue accepting new idea proposals to continuously improve the core features/aspects of the system.
 * **Archived**: The project is not accepting new proposals. This could be the case for project ideas formulated in the past and are no longer deemed necessary.
 * **Suspended**: The project is abandoned before completion and the team is currently assessing the action to be taken.
 * **Completed**: The project has been completed and is no longer available.
 
-In addition, projects marked with `(R)` are *recurring* projects. While many have undertaken and completed those projects in the past, those projects will continue accepting new idea proposals to continuously improve the core features/aspects of the system.
 
-# Completed Projets  
+# Completed Projects
 * [Recycle Bin](./Recycle-Bin)
 * [Spreadsheet Interface for Student Data UI](./Spreadsheet-Interface-for-Student-Data-UI)
-* [Rich-text Support](./Rich-text-Support)
-* [Flexible Access Control](./Flexible-Access-Control)
-* [Optimized Student Profiles](./Optimized-Student-Profiles)
-* [Omni Comments](./Omni-Comments)
-* [Stats and Charts](./Stats-and-Charts)  * [Recycle Bin](./Recycle-Bin)
-* [Spreadsheet Interface for Student Data UI](./Spreadsheet-Interface-for-Student-Data-UI)
-* [Sessions Plus](./Sessions-Plus)
 * [Rich-text Support](./Rich-text-Support)
 * [Flexible Access Control](./Flexible-Access-Control)
 * [Optimized Student Profiles](./Optimized-Student-Profiles)

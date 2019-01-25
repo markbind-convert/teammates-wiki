@@ -1,4 +1,4 @@
-* **Priority**: Medium
+* **Priority**: High
 * **Knowledge required**: Full stack
 * **Status**: Open
 
