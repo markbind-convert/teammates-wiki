@@ -39,3 +39,20 @@ For each project, the knowledge required is described only briefly (e.g. "back-e
 * **Completed**: The project has been completed and is no longer available.
 
 In addition, projects marked with `(R)` are *recurring* projects. While many have undertaken and completed those projects in the past, those projects will continue accepting new idea proposals to continuously improve the core features/aspects of the system.
+
+# Completed Projets  
+* [Recycle Bin](./Project:-Recycle-Bin)
+* [Spreadsheet Interface for Student Data UI](./Project:-Spreadsheet-Interface-for-Student-Data-UI)
+* [Sessions+](./Project:-Sessions-)
+* [Rich-text Support](./Project:-Rich-text-Support)
+* [Flexible Access Control](./Project:-Flexible-Access-Control)
+* [Optimized Student Profiles](./Project:-Optimized-Student-Profiles)
+* [Omni Comments](./Project:-Omni-Comments)
+* [Stats and Charts](./Project:-Stats-and-Charts)  * [Recycle Bin](./Project:-Recycle-Bin)
+* [Spreadsheet Interface for Student Data UI](./Project:-Spreadsheet-Interface-for-Student-Data-UI)
+* [Sessions+](./Project:-Sessions-)
+* [Rich-text Support](./Project:-Rich-text-Support)
+* [Flexible Access Control](./Project:-Flexible-Access-Control)
+* [Optimized Student Profiles](./Project:-Optimized-Student-Profiles)
+* [Omni Comments](./Project:-Omni-Comments)
+* [Stats and Charts](./Project:-Stats-and-Charts)
