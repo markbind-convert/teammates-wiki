@@ -1,4 +1,5 @@
-  * [Accessibility Hero (H)](./Project:-Accessibility-Hero)
+**Project Ideas** 
+ * [Accessibility Hero (H)](./Project:-Accessibility-Hero)
   * [Link Recovery (H)](./Project:-Link-Recovery)
   * [Selective Deadline Extensions (H)](./Project:-Selective-Deadline-Extensions)
   * [Message of the Day (M)](./Project:-Message-of-the-Day)
