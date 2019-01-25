@@ -1,6 +1,6 @@
 * **Priority**: Low
 * **Knowledge required**: Full-stack development/testing, E2E testing
-* **Status**: Open
+* **Status**: Archived
 
 Add the ability for instructors to tag students (e.g. `#good-coder`, `#potential-tutor`) and searching all students by keywords/tags.
 

@@ -4,7 +4,7 @@
 
 Add the ability for instructors to compose feedback (i.e. when giving feedback to students via TEAMMATES) and comments (when commenting on responses) using previously-saved text snippets, rather than typing everything from scratch.
 
-The feature aims to exploit the fact that instructors rarely answers give completely unique feedback each time. By allowing to save/reuse text snippets, we hope the quality of answers will improve while saving time for instructors.
+The feature aims to exploit the fact that instructors rarely give completely unique feedback each time. By allowing to save/reuse text snippets, we hope the quality of answers will improve while saving time for instructors.
 
 Features to consider:
 1. The ability to define and manage snippets.

@@ -1,4 +1,4 @@
-* **Priority**: High
+* **Priority**: Medium
 * **Knowledge required**: Full-stack development/testing, E2E testing
 * **Status**: Open
 

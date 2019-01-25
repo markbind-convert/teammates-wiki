@@ -1,4 +1,4 @@
-* **Priority**: Very High
+* **Priority**: High
 * **Knowledge required**: Front-end development, UI design, writing
 * **Status**: Open
 
