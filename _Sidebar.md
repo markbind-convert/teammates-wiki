@@ -1,5 +1,3 @@
-* [Home](Home)
-* [Project Ideas](Projects)
   * [Accessibility Hero (H)](./Project:-Accessibility-Hero)
   * [Link Recovery (H)](./Project:-Link-Recovery)
   * [Selective Deadline Extensions (H)](./Project:-Selective-Deadline-Extensions)
@@ -23,4 +21,3 @@
   * [Resource Allocator](./Project:-Resource-Allocator)
   * [Intelli Snippets](./Project:-Intelli-Snippets)
   * [Data Upload](./Project:-Data-Upload)
-* [Completed Projects](./Completed-Projects)
