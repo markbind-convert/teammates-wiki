@@ -1,0 +1,7 @@
+* [Recycle Bin](./Recycle-Bin)
+* [Spreadsheet Interface for Student Data UI](./Spreadsheet-Interface-for-Student-Data-UI)
+* [Rich-text Support](./Rich-text-Support)
+* [Flexible Access Control](./Flexible-Access-Control)
+* [Optimized Student Profiles](./Optimized-Student-Profiles)
+* [Omni Comments](./Omni-Comments)
+* [Stats and Charts](./Stats-and-Charts)

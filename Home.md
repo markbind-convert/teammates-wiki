@@ -28,14 +28,6 @@ For each project, the knowledge required is described only briefly (e.g. "back-e
 * **Recurring**: An open-ended projects that can be done multiple times. While many have undertaken and completed those projects in the past, those projects will continue accepting new idea proposals to continuously improve the core features/aspects of the system.
 * **Archived**: The project is not accepting new proposals. This could be the case for project ideas formulated in the past and are no longer deemed necessary.
 * **Suspended**: The project is abandoned before completion and the team is currently assessing the action to be taken.
-* **Completed**: The project has been completed and is no longer available.
+* **Completed**: The project has been completed and is no longer available. The list of completed projects are [here](./Completed-Projects).
 
 
-# Completed Projects
-* [Recycle Bin](./Recycle-Bin)
-* [Spreadsheet Interface for Student Data UI](./Spreadsheet-Interface-for-Student-Data-UI)
-* [Rich-text Support](./Rich-text-Support)
-* [Flexible Access Control](./Flexible-Access-Control)
-* [Optimized Student Profiles](./Optimized-Student-Profiles)
-* [Omni Comments](./Omni-Comments)
-* [Stats and Charts](./Stats-and-Charts)
