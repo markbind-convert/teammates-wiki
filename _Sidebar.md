@@ -23,7 +23,7 @@
 1. [Performance Hero](./Performance-Hero) `M` :microscope:
 
 1. [Feedback Resume](./Feedback-Resume) `L`
+1. [Team Profiles](./Team-Profiles) `L`
 1. [Intelli Snippets](./Intelli-Snippets) `L`
 1. [Resource Allocator](./Resource-Allocator) `L`
 1. [Tag and Search Students](./Tag-and-Search-Students) `L`
-1. [Team Profiles](./Team-Profiles) `L`

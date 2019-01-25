@@ -9,4 +9,3 @@ Other aspects to consider:
 1. Ability for instructors to view comments in the session results page
 
 A possible extension is to allow users to add a comment responses they have received.
-

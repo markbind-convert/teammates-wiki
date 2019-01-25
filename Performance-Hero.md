@@ -1,4 +1,4 @@
-* **Priority**: Very High
+* **Priority**: Medium
 * **Knowledge required**: Back/front-end development, database optimization and tuning, web page performance optimization
 * **Status**: Open
 

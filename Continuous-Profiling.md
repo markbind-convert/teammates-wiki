@@ -1,4 +1,4 @@
-* **Priority**: High
+* **Priority**: Medium
 * **Knowledge required**: Back/front-end development/testing, testing (particularly L&P testing) patterns and methodologies
 * **Status**: Open
 

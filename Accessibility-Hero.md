@@ -11,4 +11,4 @@ In addition, improve the usability aspect of TEAMMATES.
 1. Improving usability, e.g. reducing number of clicks or distance to navigate by mouse/touch.
 1. Providing context-specific help, e.g. tooltips, links to relevant documentation.
 1. Improving user guide.
-1. Reducing brittleness of documentation, e.g. reducing the likelihood of documentation going out of sync with the actual app behavior. 
+1. Reducing brittleness of documentation, e.g. reducing the likelihood of documentation going out of sync with the actual app behavior.
