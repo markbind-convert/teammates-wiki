@@ -23,12 +23,4 @@
   * [Resource Allocator](./Project:-Resource-Allocator)
   * [Intelli Snippets](./Project:-Intelli-Snippets)
   * [Data Upload](./Project:-Data-Upload)
-* Completed Projects
-  * [Recycle Bin](./Project:-Recycle-Bin)
-  * [Spreadsheet Interface for Student Data UI](./Project:-Spreadsheet-Interface-for-Student-Data-UI)
-  * [Sessions+](./Project:-Sessions-)
-  * [Rich-text Support](./Project:-Rich-text-Support)
-  * [Flexible Access Control](./Project:-Flexible-Access-Control)
-  * [Optimized Student Profiles](./Project:-Optimized-Student-Profiles)
-  * [Omni Comments](./Project:-Omni-Comments)
-  * [Stats and Charts](./Project:-Stats-and-Charts)
+* [Completed Projects](./Completed-Projects)
