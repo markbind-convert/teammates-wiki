@@ -1,4 +1,4 @@
-* **Priority**: Medium
+* **Priority**: High
 * **Knowledge required**: Back-end development/testing, API design, information security
 * **Status**: Open
 

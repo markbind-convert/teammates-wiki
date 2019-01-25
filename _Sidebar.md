@@ -6,6 +6,9 @@
 1. [Message of the Day](./Message-of-the-Day) `H`
 1. [Selective Deadline Extensions](./Selective-Deadline-Extensions) `H`
 
+1. [Continuous Profiling](./Continuous-Profiling) `H` :microscope:
+1. [LMS Integration](./LMS-Integration) `H` :microscope:
+
 1. [Comments for Responses](./Comments-for-Responses) `M`
 1. [Email Plus](./Email-Plus) `M`
 1. [Multiple Team Structures](./Multiple-Team-Structures) `M`
@@ -16,9 +19,7 @@
 1. [Rich-Text in Questions](./Rich-Text-in-Questions) `M`
 1. [Testing Hero](./Testing-Hero) `M`
 
-1. [Continuous Profiling](./Continuous-Profiling) `M` :microscope:
 1. [Data Protection](./Data-Protection) `M` :microscope:
-1. [LMS Integration](./LMS-Integration) `M` :microscope:
 1. [On Premise Deployment](./On-Premise-Deployment) `M` :microscope:
 1. [Performance Hero](./Performance-Hero) `M` :microscope:
 
