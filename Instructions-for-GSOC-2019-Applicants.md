@@ -53,11 +53,14 @@ Length: The project proposal need not be very long, typically, no longer than th
 
 #### Feedback for project proposals
 
-To be fair to all applicants, we encourage you to write the proposal based entirely on the details given in the ideas page, rather than sending us generic ‘can you give us more details’ requests. Note that project ideas are open ended. We expect you to propose how those features should be, rather than ask us ‘what exactly you need there?’. It’s OK if your proposal is slightly different from what we had in mind.  That will help us evaluate the quality of your judgement and the level of guidance you are going to need if you were to be accepted. If your initial proposal is good enough to interest us, we’ll contact you during the application evaluation period (after the submission deadline) to hammer out further details before doing the final selection.
+To be fair to all applicants, we encourage you to write the proposal based entirely on the details given in the ideas page, rather than sending us generic ‘can you give us more details’ requests.
+* Note that project ideas are open ended. We expect you to propose how those features should be, rather than ask us ‘what exactly you need there?’.
+* It’s OK if your proposal is slightly different from what we had in mind.  That will help us evaluate the quality of your judgement and the level of guidance you are going to need if you were to be accepted.
+* If your initial proposal is good enough to interest us, we’ll contact you during the application evaluation period (after the submission deadline) to hammer out further details before doing the final selection.
 
 Having said that, we are always happy to,
 * Answer a pointed question about a specific detail of a project idea (e.g. “did you mean x or y?”).
-*Give feedback on proposals submitted early (via GSoC system). Just let us know after submitting the proposal.
+* Give feedback on proposals submitted early (via GSoC system). Just let us know after submitting the proposal.
 
 #### Sections to include
 
@@ -115,7 +118,7 @@ Even queries regarding a specific project in the ideas page can be posted in the
 
 * [**Damith C. Rajapakse**](https://www.comp.nus.edu.sg/~damithch): TEAMMATES Founder and GSoC Project Admin. Teaches at the School of Computing, National University of Singapore. Experienced in running software projects in the industry and in teaching software engineering to students. Has written several books related to software engineering. Academic advisor for past GSoC participants from NUS. Contact: `damith [at] comp.nus.edu.sg`
 
-* [**Wilson Kurniawan**]: TEAMMATES Chief Maintainer and GSoC Project Admin. Past GSoC’er (2015). Project member since 2015. Currently a professional software engineer focusing on web application development and data management/warehousing.
+* **Wilson Kurniawan**: TEAMMATES Chief Maintainer and GSoC Project Admin. Past GSoC’er (2015). Project member since 2015. Currently a professional software engineer focusing on web application development and data management/warehousing.
 
 * **Other mentors:** to be selected from senior developers listed [here](http://teammatesv4.appspot.com/about.jsp).
 
