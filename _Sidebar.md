@@ -5,6 +5,7 @@
 1. [Link Recovery](./Link-Recovery) `H`
 1. [Message of the Day](./Message-of-the-Day) `H`
 1. [Selective Deadline Extensions](./Selective-Deadline-Extensions) `H`
+1. [Testing Hero](./Testing-Hero) `H`
 
 1. [Continuous Profiling](./Continuous-Profiling) `H` :microscope:
 1. [LMS Integration](./LMS-Integration) `H` :microscope:
@@ -17,7 +18,6 @@
 1. [Reports Plus](./Reports-Plus) `M`
 1. [Results View Tracking](./Results-View-Tracking) `M`
 1. [Rich-Text in Questions](./Rich-Text-in-Questions) `M`
-1. [Testing Hero](./Testing-Hero) `M`
 
 1. [Data Protection](./Data-Protection) `M` :microscope:
 1. [On Premise Deployment](./On-Premise-Deployment) `M` :microscope:

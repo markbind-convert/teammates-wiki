@@ -58,7 +58,7 @@ _Note: our participation in GSoC 2019 is not yet confirmed._
 
 The main criterion is your programming skills, evaluated based on the quality of your past work. Provide links to any of your past work that is available online.
 
-Given that TEAMMATES is based in a Computing school and the project is especially student-friendly, we receive a high number of GSoC applications out of which only the strongest applicants are likely to be selected.Even if you fail to get selected for a GSoC slot in TEAMMATES, you are encouraged to continue contributing. It will improve your programming skills and OSS credentials, which will add weight to your future GSoC/job applications.
+Given that TEAMMATES is based in a Computing school and the project is especially student-friendly, we receive a high number of GSoC applications out of which only the strongest applicants are likely to be selected. Even if you fail to get selected for a GSoC slot in TEAMMATES, you are encouraged to continue contributing. It will improve your programming skills and OSS credentials, which will add weight to your future GSoC/job applications.
 
 ## Writing the project proposal
 Length: The project proposal need not be very long, typically, no longer than three pages.
