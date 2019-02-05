@@ -1,6 +1,4 @@
-# Instructions for GSoC 2019 Applicants
-
-_Note: our participation in GSoC 2019 is not yet confirmed._
+_Note: this document is tentative because our participation in GSoC 2019 is not yet confirmed._
 
 * [Application procedure](#application-procedure)
 * [Selection criteria](#selection-criteria)
