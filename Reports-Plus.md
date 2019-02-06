@@ -1,6 +1,6 @@
 * **Priority**: Medium
 * **Knowledge required**: Full-stack development/testing, E2E testing
-* **Status**: Open
+* **Status**: Open, Recurring
 
 Improve feedback session reports.
 

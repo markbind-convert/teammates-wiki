@@ -1,6 +1,6 @@
-* **Priority**: High
+* **Priority**: Very High
 * **Knowledge required**: Front-end development, UI design, writing
-* **Status**: Open
+* **Status**: Open, Recurring
 
 Improve accessibility of TEAMMATES
 * Improving compliance with established guidelines such as [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) to a level where we can claim TEAMMATES is _accessible_.

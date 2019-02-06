@@ -1,6 +1,6 @@
 * **Priority**: High
 * **Knowledge required**: Back/front-end development/testing, testing patterns and methodologies
-* **Status**: Open
+* **Status**: Open, Recurring
 
 Improve testing infrastructure and code coverage of existing code base.
 

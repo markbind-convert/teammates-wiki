@@ -1,6 +1,6 @@
-* **Priority**: High
+* **Priority**: Medium
 * **Knowledge required**: Full-stack development/testing, E2E testing
-* **Status**: Open
+* **Status**: Open, Recurring
 
 Currently, students can add comments to their responses when they answer MCQ questions. In this project, you will add a similar ability to other question types, where applicable.
 

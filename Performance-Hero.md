@@ -1,6 +1,6 @@
 * **Priority**: Medium
 * **Knowledge required**: Back/front-end development, database optimization and tuning, web page performance optimization
-* **Status**: Open
+* **Status**: Open, Recurring
 
 Improve TEAMMATES performance for operations involving bigger data sets (e.g. bigger courses and/or bigger sessions with many questions).
 
