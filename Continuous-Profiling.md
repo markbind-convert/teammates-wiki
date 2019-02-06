@@ -1,6 +1,6 @@
 * **Priority**: High
 * **Knowledge required**: Back/front-end development/testing, testing (particularly L&P testing) patterns and methodologies
-* **Status**: Open
+* **Status**: Active
 
 Implement proper profiling operations for both front-end and back-end (and also in integration) for TEAMMATES.
 

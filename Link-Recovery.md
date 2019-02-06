@@ -1,6 +1,6 @@
 * **Priority**: High
 * **Knowledge required**: Full-stack development/testing, E2E testing
-* **Status**: Open
+* **Status**: Active
 
 TEAMMATES emails a unique link to each user that they can use to submit responses or view results. In some cases users delete that email by accident or cannot find it again in their inbox. It would be good to provide a way for users to request TEAMMATES to resend the link.
 
