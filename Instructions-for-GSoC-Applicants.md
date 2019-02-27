@@ -1,4 +1,4 @@
-_Note: this document is tentative because our participation in GSoC 2019 is not yet confirmed._
+_Note: this is a generic document for GSoC application in any year. We are not a mentoring organization in GSoC 2019._
 
 * [Application procedure](#application-procedure)
 * [Selection criteria](#selection-criteria)
