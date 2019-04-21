@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.2.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="markbind/css/github.min.css">
+  <link rel="stylesheet" href="markbind/css/markbind.css">
+  <link rel="stylesheet" href="markbind/layouts/default/styles.css">
+
+
+
+
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <navbar placement="top" type="inverse">
+        <a slot="brand" href="/index.html" title="Home" class="navbar-brand"><i class="far fa-file-image"></i></a>
+        <li><a href="/index.html" class="nav-link">HOME</a></li>
+        <li><a href="/about.html" class="nav-link">ABOUT</a></li>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="position-sticky position-top site-nav-spacer viewport-height-90 scrollable slim-scroll">
+          <p><a href="./Home"><strong>Home</strong></a>
+            <strong>Project Ideas</strong></p>
+          <ol>
+            <li><a href="./Accessibility-Hero">Accessibility Hero</a> <code>H</code></li>
+            <li><a href="./Link-Recovery">Link Recovery</a> <code>H</code></li>
+            <li><a href="./Message-of-the-Day">Message of the Day</a> <code>H</code></li>
+            <li><a href="./Selective-Deadline-Extensions">Selective Deadline Extensions</a> <code>H</code></li>
+            <li><a href="./Testing-Hero">Testing Hero</a> <code>H</code></li>
+            <li><a href="./Continuous-Profiling">Continuous Profiling</a> <code>H</code> 🔬</li>
+            <li><a href="./LMS-Integration">LMS Integration</a> <code>H</code> 🔬</li>
+            <li><a href="./Comments-for-Responses">Comments for Responses</a> <code>M</code></li>
+            <li><a href="./Email-Plus">Email Plus</a> <code>M</code></li>
+            <li><a href="./Multiple-Team-Structures">Multiple Team Structures</a> <code>M</code></li>
+            <li><a href="./Per-Receiver-Submission">Per-Receiver Submission</a> <code>M</code></li>
+            <li><a href="./Questions-Plus">Questions Plus</a> <code>M</code></li>
+            <li><a href="./Reports-Plus">Reports Plus</a> <code>M</code></li>
+            <li><a href="./Results-View-Tracking">Results View Tracking</a> <code>M</code></li>
+            <li><a href="./Rich-Text-in-Questions">Rich-Text in Questions</a> <code>M</code></li>
+            <li><a href="./Data-Protection">Data Protection</a> <code>M</code> 🔬</li>
+            <li><a href="./On-Premise-Deployment">On Premise Deployment</a> <code>M</code> 🔬</li>
+            <li><a href="./Performance-Hero">Performance Hero</a> <code>M</code> 🔬</li>
+            <li><a href="./Feedback-Resume">Feedback Resume</a> <code>L</code></li>
+            <li><a href="./Team-Profiles">Team Profiles</a> <code>L</code></li>
+            <li><a href="./Intelli-Snippets">Intelli Snippets</a> <code>L</code></li>
+            <li><a href="./Resource-Allocator">Resource Allocator</a> <code>L</code></li>
+            <li><a href="./Tag-and-Search-Students">Tag and Search Students</a> <code>L</code></li>
+          </ol>
+        </div>
+      </nav>
+      <div id="content-wrapper">
+        <p><em>Note: this is a generic document for GSoC application in any year. We are not a mentoring organization in GSoC 2019.</em></p>
+        <ul>
+          <li><a href="#application-procedure">Application procedure</a></li>
+          <li><a href="#selection-criteria">Selection criteria</a></li>
+          <li><a href="#writing-the-project-proposal">Writing the project proposal</a></li>
+          <li><a href="#our-expectations-during-the-project">Our expectations during the project</a></li>
+          <li><a href="#our-expectations-after-the-project">Our expectations after the project</a></li>
+          <li><a href="#contacting-us">Contacting us</a></li>
+          <li><a href="#project-admins">Project Admins</a></li>
+          <li><a href="#resources">Resources</a></li>
+        </ul>
+        <h2 id="application-procedure">Application procedure<a class="fa fa-anchor" href="#application-procedure"></a></h2>
+        <h4 id="things-to-do-consider-before-applying">Things to do/consider before applying:</h4>
+        <ol>
+          <li>
+            <p><strong>[Prereq] Basic Software Engineering knowledge</strong></p>
+            <ul>
+              <li>Applicants who have done (or is doing) at least an entry-level Software Engineering course and have a basic understanding of OOP will have an advantage.</li>
+              <li>Those who know at least <em>some</em> of the following when you apply will have an advantage over those who do not. Note that you should be able to get a basic grasp of most of these before you start the coding phase:
+                <ul>
+                  <li>Languages:
+                    <ul>
+                      <li>Front-end: HTML, SCSS, TypeScript</li>
+                      <li>Back-end: Java</li>
+                    </ul>
+                  </li>
+                  <li>Tools and technologies:
+                    <ul>
+                      <li>Front-end: Angular, Bootstrap</li>
+                      <li>Back-end: Servlets, TestNG, Selenium, developing Java apps for Google App Engine Standard Environment</li>
+                      <li>General: Git</li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <p><strong>Learn about TEAMMATES:</strong></p>
+            <p>Visit our <a href="https://github.com/TEAMMATES/teammates">project website</a> and the <a href="https://github.com/TEAMMATES/teammates/wiki">ideas page</a> to get a rough idea about the what we have done so far in the TEAMMATES project and what you can do for TEAMMATES under GSoC.</p>
+          </li>
+        </ol>
+        <h4 id="the-following-optional-tasks-can-increase-your-chances-of-selection">The following optional tasks can increase your chances of selection.</h4>
+        <ol>
+          <li>
+            <p><strong>[Optional, encouraged] Set up dev environment:</strong></p>
+            <ul>
+              <li>Read our <a href="https://github.com/TEAMMATES/teammates/blob/master/docs/CONTRIBUTING.md">Contributor Orientation Guide</a> and try to complete phase <code>A</code>-<code>C</code> in the &quot;Orientation task list&quot;. Not to worry if you stumble on the way; we are always ready to guide you during the process of completing those steps 😃.</li>
+              <li><strong>Important</strong>: Please pay attention to details of the instructions given and try to follow them meticulously when setting up the project and contributing PRs. Attention to details is one of the qualities we look for in a contributor. When you try to save yourself time by skipping over details/instructions, you cause others to waste their time on correcting your oversights.</li>
+            </ul>
+          </li>
+          <li>
+            <p><strong>[Optional] Fix Issues (i.e., Submit PRs):</strong></p>
+            <p>Objective: to show coding abilities and that you can follow our workflow.<br>
+              You need to do the previous step before fixing issues. Steps for fixing an issue is explained in the <a href="https://github.com/TEAMMATES/teammates/blob/master/docs/process.md">process document</a>.</p>
+            <ol>
+              <li>When picking issues to fix, try to pick easier issues first (those labelled <code>d.FirstTimers</code> or <code>d.Contributors</code>).</li>
+              <li>Do not fix more than one issue labelled <code>d.FirstTimers</code>. After fixing one of those, you are no longer a first timer.</li>
+              <li>Try to avoid issues for which there are existing ongoing active pull requests. If you are not sure if an open PR is still active, you can always post a comment in that PR and ask the author.</li>
+              <li>When there are multiple pull requests for the same issue, we merge the one that reaches the <em>ready to merge</em> status (indicated by the <code>s.ToMerge</code> label) first.</li>
+            </ol>
+            <p>❗️ Note: GSoC application period is a very busy period of us due to many GSoC aspirants interacting with the project. Some of your emails and posts in the issue tracker could fall through the cracks without us realizing. Feel free to remind if you do not get a response from us within 24 hours.</p>
+          </li>
+          <li>
+            <p><strong>[Optional] Report bugs:</strong></p>
+            <p>Objective: to show us that you have taken time to learn the TEAMMATES functionality.<br>
+              Play around with TEAMMATES functionality (using your dev server or staging server) and report bugs or suggestions for improvements in our issue tracker.</p>
+          </li>
+        </ol>
+        <h2 id="selection-criteria">Selection Criteria<a class="fa fa-anchor" href="#selection-criteria"></a></h2>
+        <p>The main criterion is your programming skills, evaluated based on the quality of your past work. Provide links to any of your past work that is available online.</p>
+        <p>Given that TEAMMATES is based in a Computing school and the project is especially student-friendly, we receive a high number of GSoC applications out of which only the strongest applicants are likely to be selected. Even if you fail to get selected for a GSoC slot in TEAMMATES, you are encouraged to continue contributing. It will improve your programming skills and OSS credentials, which will add weight to your future GSoC/job applications.</p>
+        <h2 id="writing-the-project-proposal">Writing the project proposal<a class="fa fa-anchor" href="#writing-the-project-proposal"></a></h2>
+        <p>Length: The project proposal need not be very long, typically, no longer than three pages.</p>
+        <h4 id="feedback-for-project-proposals">Feedback for project proposals</h4>
+        <p>To be fair to all applicants, we encourage you to write the proposal based entirely on the details given in the ideas page, rather than sending us generic &quot;can you give us more details?&quot; requests.</p>
+        <ul>
+          <li>Note that project ideas are open ended. We expect you to propose how those features should be, rather than asking us &quot;what exactly you need there?&quot;.</li>
+          <li>It is OK if your proposal is slightly different from what we had in mind. That will help us evaluate the quality of your judgement and the level of guidance you are going to need if you are to be accepted.</li>
+          <li>If your initial proposal is good enough to interest us, we will contact you during the application evaluation period (after the submission deadline) to hammer out further details before doing the final selection.</li>
+        </ul>
+        <p>Having said that, we are always happy to,</p>
+        <ul>
+          <li>Answer a pointed question about a specific detail of a project idea (e.g. &quot;did you mean x or y?&quot;).</li>
+          <li>Give feedback on proposals submitted early (via GSoC system). Just let us know after submitting the proposal.</li>
+        </ul>
+        <h4 id="sections-to-include">Sections to include</h4>
+        <ul>
+          <li>
+            <p><strong>Personal details:</strong></p>
+            <ul>
+              <li>Name:</li>
+              <li>Contact email:</li>
+              <li>Country, university and the degree program:</li>
+              <li>GitHub username:</li>
+              <li>Online presence (home page, online CV, blog, etc.):</li>
+              <li>Why are you the right choice for this project?</li>
+            </ul>
+          </li>
+          <li>
+            <p><strong>Project experience:</strong> Include details of all past programming work, including links to some sample code.</p>
+            <ul>
+              <li>What other programming project experiences do you have? Please provide links where possible.</li>
+              <li>What have you done for other OSS projects in the past, if any? Please provide links to your contributions (PRs, Issues, etc.).</li>
+            </ul>
+          </li>
+          <li>
+            <p><strong>Skill level:</strong></p>
+            <ul>
+              <li>State your skill level for various languages, tools, and technologies relevant to your project proposal. Give evidence of your skill level for each, if any (e.g. point to sample code written by you).</li>
+              <li>You may use these for rating your skill level:<br>
+                <code>Zero</code> (written less than 100 LoC), <code>Basic</code> (less than 1 KLoC), <code>Intermediate</code> (1-5 KLoC), <code>Expert</code> (more than 5 KLoC).</li>
+            </ul>
+          </li>
+          <li>
+            <p><strong>Proposed design:</strong> We would like to see some details of how you plan to implement the proposed feature. Mention the order in which you will implement various parts of the feature. This will help for us to judge whether you have given it some thought and have done your homework before applying.<br>
+              Note: <strong>It is OK to include proposals for multiple project ideas in the same application, and specify an order of preference.</strong></p>
+          </li>
+          <li>
+            <p><strong>Availability/schedule:</strong> We do not require you to submit a detailed project schedule. This is because we plan to define/refine the schedule on a continuous basis, based on how the project progresses. However, you should give us a confirmed schedule of your availability during the summer, i.e. during which periods you will be available full time to work on the project.<br>
+              <strong>Specify which hours of the day in Singapore time (UTC+08:00: Kuala Lumpur, Singapore) you are available to communicate with the project mentors (most of whom are based in Singapore).</strong></p>
+          </li>
+        </ul>
+        <h2 id="our-expectations-during-the-project">Our expectations during the project<a class="fa fa-anchor" href="#our-expectations-during-the-project"></a></h2>
+        <ul>
+          <li>
+            <p><strong>This is a full time job:</strong> We believe one main objective of an internship is training students for real working environments. Therefore, we expect you to treat this as a real full time job during the code phase (mid May - mid Aug). Do not apply if you have any other full time engagements during that period.</p>
+          </li>
+          <li>
+            <p><strong>We expect daily progress:</strong> Our practice is to break work into small well-defined tasks that can be done in less than one day. This means we expect full time developers, including you, to complete tasks on a daily basis and push code at least 5 days a week. Of course you can have a few &quot;off days&quot;, just like a normal job.</p>
+          </li>
+          <li>
+            <p><strong>Your work can go beyond the project proposal:</strong> During the project duration, we treat you as a project member. And as any other project member, we expect you to contribute to other project activities such as bug fixing. The project that you propose will be the core of your contribution to TEAMMATES, but it will not be the only thing you do. Consequently, do not plan to finish the project quickly and take the rest of the summer off 😃.</p>
+          </li>
+          <li>
+            <p><strong>We have the final word on design decisions:</strong> You are always welcome to suggest alternatives and argue for what you think is the best solution. However, the final decision as to which approach to take lies with the project team. You are expected to accept the project team's decision and follow it sincerely.
+              In addition, do expect changes to the project plan along the way.</p>
+          </li>
+          <li>
+            <p><strong>We are friendly:</strong> The above makes it sound like we are heartless slave drivers. That is not true; we are really friendly, understanding, and reasonable. 😃. For example, the amount of work expected from you will be similar to what many other student contributors were able to complete in the past. TEAMMATES was built by students. It is where it is now because of their hard work. In return, that hard work helped them become strong software engineers. We expect no less from you and we want you to gain no less.</p>
+          </li>
+          <li>
+            <p><strong>We are serious; you should be too:</strong> We expect to integrate your work to the main product. That means your work will be used by our user base even before the project finishes (we release a new version almost every week). This also means, after a short period in which your mentor will guide you to attain the required quality level, you are expected to produce production quality code, i.e. well-tested and compliant with our coding standards.</p>
+          </li>
+        </ul>
+        <h2 id="our-expectations-after-the-project">Our expectations after the project<a class="fa fa-anchor" href="#our-expectations-after-the-project"></a></h2>
+        <p>The successful completion of the project, in addition to all the goodies from Google, will also earn you committer status in TEAMMATES. If you continue to be involved in the project (even on a much lighter scale),</p>
+        <ul>
+          <li>You will be elevated to core member status (yup, in this page, with photo and everything).</li>
+          <li>You will get high priority for student/mentor roles in future GSoCs.</li>
+        </ul>
+        <h2 id="contacting-us">Contacting us<a class="fa fa-anchor" href="#contacting-us"></a></h2>
+        <p>The best way to contact us is to post a message in our issue tracker. Our issue tracker doubles as a discussion forum. You can use it for things like asking questions about the project or requesting technical help.</p>
+        <p>Even queries regarding a specific project in the ideas page can be posted in the issue tracker. If the information is not suitable to post in the issue tracker, e.g. seeking feedback on a project proposal, please email our general contact email (<a href="mailto:teammates@comp.nus.edu.sg">teammates@comp.nus.edu.sg</a>).</p>
+        <h2 id="project-admins">Project Admins<a class="fa fa-anchor" href="#project-admins"></a></h2>
+        <ul>
+          <li>
+            <p><a href="https://www.comp.nus.edu.sg/~damithch"><strong>Damith C. Rajapakse</strong></a>: TEAMMATES Founder and GSoC Project Admin. Teaches at the School of Computing, National University of Singapore. Experienced in running software projects in the industry and in teaching software engineering to students. Has written several books related to software engineering. Academic advisor for past GSoC participants from NUS. Contact: <code>damith [at] comp.nus.edu.sg</code>.</p>
+          </li>
+          <li>
+            <p><a href="https://github.com/wkurniawan07"><strong>Wilson Kurniawan</strong></a>: TEAMMATES Chief Maintainer and GSoC Project Admin. Past GSoC-er (2015). Project member since 2015. Currently a professional software engineer focusing on web application development and data management/warehousing.</p>
+          </li>
+          <li>
+            <p><strong>Other mentors:</strong> To be selected from senior developers listed <a href="http://teammatesv4.appspot.com/about.jsp">here</a>.</p>
+          </li>
+        </ul>
+        <h2 id="resources">Resources<a class="fa fa-anchor" href="#resources"></a></h2>
+        <ul>
+          <li><a href="http://google-opensource.blogspot.sg/2011/03/dos-and-donts-of-google-summer-of-code.html">The DOs and DON'Ts of Google Summer of Code Student Participants</a> (not specific to TEAMMATES)</li>
+        </ul>
+      </div>
+    </div>
+    <footer>
+      [Project Ideas Home](./Home) | [Product Home](https://teammatesv4.appspot.com) | [Project Home](https://github.com/TEAMMATES/teammates) | [Developer Docs](https://github.com/TEAMMATES/teammates/blob/master/docs)
+    </footer>
+  </div>
+</body>
+<script src="markbind/js/vue.min.js"></script>
+<script src="markbind/js/vue-strap.min.js"></script>
+<script src="markbind/js/bootstrap-utility.min.js"></script>
+<script src="markbind/js/polyfill.min.js"></script>
+<script src="markbind/js/bootstrap-vue.min.js"></script>
+<script>
+  const baseUrl = ''
+  const enableSearch = true
+</script>
+<script src="markbind/js/setup.js"></script>
+<script src="markbind/layouts/default/scripts.js"></script>
+
+</html>

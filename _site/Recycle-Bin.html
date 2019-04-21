@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="MarkBind 2.2.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <link rel="stylesheet" href="markbind/css/bootstrap.min.css">
+  <link rel="stylesheet" href="markbind/css/bootstrap-vue.min.css">
+  <link rel="stylesheet" href="markbind/fontawesome/css/all.min.css">
+  <link rel="stylesheet" href="markbind/glyphicons/css/bootstrap-glyphicons.min.css">
+  <link rel="stylesheet" href="markbind/css/github.min.css">
+  <link rel="stylesheet" href="markbind/css/markbind.css">
+  <link rel="stylesheet" href="markbind/layouts/default/styles.css">
+
+
+
+
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <navbar placement="top" type="inverse">
+        <a slot="brand" href="/index.html" title="Home" class="navbar-brand"><i class="far fa-file-image"></i></a>
+        <li><a href="/index.html" class="nav-link">HOME</a></li>
+        <li><a href="/about.html" class="nav-link">ABOUT</a></li>
+        <li slot="right">
+          <form class="navbar-form">
+            <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
+          </form>
+        </li>
+      </navbar>
+    </header>
+    <div id="flex-body">
+      <nav id="site-nav" class="navbar navbar-light bg-transparent">
+        <div class="position-sticky position-top site-nav-spacer viewport-height-90 scrollable slim-scroll">
+          <p><a href="./Home"><strong>Home</strong></a>
+            <strong>Project Ideas</strong></p>
+          <ol>
+            <li><a href="./Accessibility-Hero">Accessibility Hero</a> <code>H</code></li>
+            <li><a href="./Link-Recovery">Link Recovery</a> <code>H</code></li>
+            <li><a href="./Message-of-the-Day">Message of the Day</a> <code>H</code></li>
+            <li><a href="./Selective-Deadline-Extensions">Selective Deadline Extensions</a> <code>H</code></li>
+            <li><a href="./Testing-Hero">Testing Hero</a> <code>H</code></li>
+            <li><a href="./Continuous-Profiling">Continuous Profiling</a> <code>H</code> 🔬</li>
+            <li><a href="./LMS-Integration">LMS Integration</a> <code>H</code> 🔬</li>
+            <li><a href="./Comments-for-Responses">Comments for Responses</a> <code>M</code></li>
+            <li><a href="./Email-Plus">Email Plus</a> <code>M</code></li>
+            <li><a href="./Multiple-Team-Structures">Multiple Team Structures</a> <code>M</code></li>
+            <li><a href="./Per-Receiver-Submission">Per-Receiver Submission</a> <code>M</code></li>
+            <li><a href="./Questions-Plus">Questions Plus</a> <code>M</code></li>
+            <li><a href="./Reports-Plus">Reports Plus</a> <code>M</code></li>
+            <li><a href="./Results-View-Tracking">Results View Tracking</a> <code>M</code></li>
+            <li><a href="./Rich-Text-in-Questions">Rich-Text in Questions</a> <code>M</code></li>
+            <li><a href="./Data-Protection">Data Protection</a> <code>M</code> 🔬</li>
+            <li><a href="./On-Premise-Deployment">On Premise Deployment</a> <code>M</code> 🔬</li>
+            <li><a href="./Performance-Hero">Performance Hero</a> <code>M</code> 🔬</li>
+            <li><a href="./Feedback-Resume">Feedback Resume</a> <code>L</code></li>
+            <li><a href="./Team-Profiles">Team Profiles</a> <code>L</code></li>
+            <li><a href="./Intelli-Snippets">Intelli Snippets</a> <code>L</code></li>
+            <li><a href="./Resource-Allocator">Resource Allocator</a> <code>L</code></li>
+            <li><a href="./Tag-and-Search-Students">Tag and Search Students</a> <code>L</code></li>
+          </ol>
+        </div>
+      </nav>
+      <div id="content-wrapper">
+        <ul>
+          <li><strong>Priority</strong>: High</li>
+          <li><strong>Knowledge required</strong>: Full-stack development/testing, E2E testing</li>
+          <li><strong>Status</strong>: Completed</li>
+        </ul>
+        <p>Add the ability to recover deleted sessions/courses via a recycle bin.</p>
+        <p>Occasionally, users delete sessions/courses by mistake and ask us to recover data. In the current implementation, there is no way to recover deleted data. The challenge is to implement such a feature without a significant increase in database writes or storage usage as we are billed for both based on usage.</p>
+        <ol>
+          <li>Restoring/deleting from recycle bin.</li>
+          <li>UI presentation of the deleted items.</li>
+          <li>Auto-purging of the recycle bin after a set waiting period.</li>
+        </ol>
+      </div>
+    </div>
+    <footer>
+      [Project Ideas Home](./Home) | [Product Home](https://teammatesv4.appspot.com) | [Project Home](https://github.com/TEAMMATES/teammates) | [Developer Docs](https://github.com/TEAMMATES/teammates/blob/master/docs)
+    </footer>
+  </div>
+</body>
+<script src="markbind/js/vue.min.js"></script>
+<script src="markbind/js/vue-strap.min.js"></script>
+<script src="markbind/js/bootstrap-utility.min.js"></script>
+<script src="markbind/js/polyfill.min.js"></script>
+<script src="markbind/js/bootstrap-vue.min.js"></script>
+<script>
+  const baseUrl = ''
+  const enableSearch = true
+</script>
+<script src="markbind/js/setup.js"></script>
+<script src="markbind/layouts/default/scripts.js"></script>
+
+</html>
