@@ -1,4 +1,8 @@
 <footer>
-	[Project Ideas Home](./Home) | [Product Home](https://teammatesv4.appspot.com) | [Project Home](https://github.com/TEAMMATES/teammates) | [Developer Docs](https://github.com/TEAMMATES/teammates/blob/master/docs)
-
+<div class="text-center">
+<a href="{{baseUrl}}/">Project Ideas Home</a>
+| <a href="https://teammatesv4.appspot.com">Product Home</a>
+| <a href="https://github.com/TEAMMATES/teammates">Project Home</a>
+| <a href="https://github.com/TEAMMATES/teammates/blob/master/docs">Developer Docs</a>
+</div>
 </footer>
