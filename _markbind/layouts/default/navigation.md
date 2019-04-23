@@ -21,7 +21,7 @@
 1. [Rich-Text in Questions]({{baseUrl}}/Rich-Text-in-Questions.html) `M`
 
 1. [Data Protection]({{baseUrl}}/Data-Protection.html) `M` :microscope:
-1. [On Premise Deployment]({{baseUrl}}/On-Premise-Deployment.html) `M` :microscope:
+1. [On Premise Deployment]({{baseUrl}}/On-premise-Deployment.html) `M` :microscope:
 1. [Performance Hero]({{baseUrl}}/Performance-Hero.html) `M` :microscope:
 
 1. [Feedback Resume]({{baseUrl}}/Feedback-Resume.html) `L`
