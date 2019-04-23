@@ -1,0 +1,254 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "headings": {
+        "current-project-ideas": "Current Project Ideas",
+        "general-project-expectations": "General Project Expectations",
+        "contacting-us-about-project-ideas": "Contacting us About Project Ideas",
+        "knowledge-requirements": "Knowledge Requirements"
+      },
+      "src": "index.md",
+      "title": "Hello World",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Accessibility-Hero.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Comments-for-Responses.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Completed-Projects.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Continuous-Profiling.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Data-Protection.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Email-Plus.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Feedback-Resume.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Flexible-Access-Control.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "current-project-ideas": "Current Project Ideas",
+        "general-project-expectations": "General Project Expectations",
+        "contacting-us-about-project-ideas": "Contacting us About Project Ideas",
+        "knowledge-requirements": "Knowledge Requirements"
+      },
+      "src": "Home.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "application-procedure": "Application procedure",
+        "selection-criteria": "Selection Criteria",
+        "writing-the-project-proposal": "Writing the project proposal",
+        "our-expectations-during-the-project": "Our expectations during the project",
+        "our-expectations-after-the-project": "Our expectations after the project",
+        "contacting-us": "Contacting us",
+        "project-admins": "Project Admins",
+        "resources": "Resources"
+      },
+      "src": "Instructions-for-GSoC-Applicants.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Intelli-Snippets.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "LMS-Integration.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Link-Recovery.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Message-of-the-Day.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Multiple-Team-Structures.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Omni-Comments.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "On-premise-Deployment.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Optimized-Student-Profiles.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Per-Receiver-Submission.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Performance-Hero.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Questions-Plus.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Recycle-Bin.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Reports-Plus.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Resource-Allocator.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Results-View-Tracking.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Rich-Text-in-Questions.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Rich-text-Support.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Selective-Deadline-Extensions.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Sessions-Plus.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Spreadsheet-Interface-for-Student-Data-UI.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Stats-and-Charts.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Tag-and-Search-Students.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Team-Profiles.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "Testing-Hero.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_Footer.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {},
+      "src": "_Sidebar.md",
+      "title": "",
+      "layout": "default"
+    },
+    {
+      "headings": {
+        "about": "About"
+      },
+      "src": "about.md",
+      "title": "",
+      "layout": "default"
+    }
+  ]
+}
