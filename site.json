@@ -1,5 +1,5 @@
 {
-  "baseUrl": "",
+  "baseUrl": "/teammates-wiki",
   "titlePrefix": "",
   "ignore": [
     "_markbind/layouts/*",

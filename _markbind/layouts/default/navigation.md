@@ -1,5 +1,5 @@
 <navigation>
-* [**Home**](/)
+* [**Home**]({{baseUrl}}/)
 
 * **Project Ideas**
 1. [Accessibility Hero]({{baseUrl}}/Accessibility-Hero.html) `H`
